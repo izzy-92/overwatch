@@ -21,6 +21,10 @@
     background-color: #555;
     transform: skewX(-14deg);
 }
+/* 마우스를 얹었을때 요소의 크기를 크게 만드는 효과*/
+.container .heroes .hero:hover {
+    background-color: #ff9c00;
+}
 .container .heroes .hero .image {
 
 }
