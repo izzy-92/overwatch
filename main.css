@@ -4,7 +4,7 @@ body {
     background-size: cover;
     background-repeat: no-repeat; 
     background-attachment: fixed;
-}
+}  
 .container {
     padding: 50px 0;
 }
@@ -90,5 +90,5 @@ body {
 }
 /* 로고안의 img 태그선택자 가로너비 추가 */
 .container .logo img {
-    width: 100%;  /* 여기서의 이미지 100%란 부모(logo)의 최대너비에 맞춰서 출력하겠다는 의미.*/
+    width: 100%;
 }
